@@ -1,9 +1,9 @@
-<img src="lnl.png" width="300">
+<img src="lpw.png" width="450">
 
-# L&L
-L&L (Lore and Literature) is a workflow for creating interactive narratives through lore. It can take the form of a game, visual novel, or any other format. (2025-12-28)
+# Lore Play Workflow
+LPW is a workflow for creating interactive narratives through lore. It can take the form of a game, visual novel, or any other format.
 
 ## Showcase
 Find out how L&L is used by teams to create projects of all genres and scale.
 
-- [Loreplaying](https://github.com/LorePlaying/loreplaying.github.io)
+- [Lore Playing](https://github.com/LorePlaying/loreplaying.github.io)
